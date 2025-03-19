@@ -14,10 +14,8 @@ My research is at the intersection of cutting-edge AI technologies, with a prima
 ## 💼 Professional Experience
 
 ### Data Science & Consulting
-- **Data Scientist** at Axio (Capital Float)
-  - Developed data-driven solutions for digital lending
-- **Intern** at Bain & Company, BCN Division
-  - Contributed to AI-driven solutions for global clients
+- Ex-**Data Scientist** @ Axio (Capital Float)
+- Ex-**Intern** @ Bain & Company
 
 ## 🛠️ Technical Skills
 
