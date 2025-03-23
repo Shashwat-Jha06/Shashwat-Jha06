@@ -2,14 +2,8 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science master's student at the University of California, Riverside, passionate about pushing the boundaries of artificial intelligence and computer vision.
+I'm a Computer Science master's student at the University of California, Riverside, who likes working on Data Science, Analytics, MLops and is passionate about research withh the intent to push the boundaries of artificial intelligence and computer vision.
 
-## 🔬 Research Focus
-
-My research is at the intersection of cutting-edge AI technologies, with a primary focus on:
-- Uncertainty Quantification in Computer Vision
-- Safety Alignment in Vision-Language Models
-- Multi-Agent Perception for Autonomous Vehicles
 
 ## 💼 Professional Experience
 
@@ -29,35 +23,11 @@ My research is at the intersection of cutting-edge AI technologies, with a prima
 - Scala
 - HTML/CSS
 
-### Cloud & DevOps
-- AWS (S3, Redshift, SageMaker)
-- Docker
-- Kubernetes
-- Jenkins
-- Apache Spark
-- Hadoop
-
-### Machine Learning & AI Libraries
-- PyTorch
-- TensorFlow
-- JAX
-- Pandas
-- NumPy
-- OpenCV
-- LangChain
-- LlamaIndex
-
-### Frameworks & Tools
-- Django
-- FastAPI
-- ROS
-- Tableau
-- Power BI
-- Git
 
 ## 🧠 Domain Expertise
 - Machine Learning
 - Natural Language Processing
+- -MLOps
 - Computer Vision
 - Autonomous Vehicles
 - Large Language Models
