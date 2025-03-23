@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science master's student at the University of California, Riverside, who likes working on Data Science, Analytics, MLops and is passionate about research withh the intent to push the boundaries of artificial intelligence and computer vision.
+I'm a Computer Science master's student at the University of California, Riverside, who likes working on Data Science, Analytics, MLops and is passionate about research withh the intent to push the boundaries of artificial intelligence in computer vision , Language models, Vision language Models , Domain Adaptation, Safety Alignment and Uncertainty Quantification.
 
 
 ## 💼 Professional Experience
