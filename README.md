@@ -27,7 +27,7 @@ I'm a Computer Science master's student at the University of California, Riversi
 ## 🧠 Domain Expertise
 - Machine Learning
 - Natural Language Processing
-- -MLOps
+- MLOps
 - Computer Vision
 - Autonomous Vehicles
 - Large Language Models
