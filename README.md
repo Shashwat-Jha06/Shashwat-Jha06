@@ -1,15 +1,9 @@
 # 👋Hello! I'm Shashwat 
 
-## 🚀 About Me
-
-I'm a Computer Science master's student at the University of California, Riverside, who likes working on Data Science, Analytics, MLops and is passionate about research withh the intent to push the boundaries of artificial intelligence in computer vision , Language models, Vision language Models , Domain Adaptation, Safety Alignment and Uncertainty Quantification.
-
-
 ## 💼 Professional Experience
-
-### Data Science & Consulting
-- Ex-**Data Scientist** @ Axio (Capital Float)
-- Ex-**Intern** @ Bain & Company
+- **AI-Engineer** @ Altimetrik
+- Ex-**Data Scientist** @ Axio (now Amazon Pay)
+- Ex-**Intern** @ Bain & Company (Recipient of PPO for Full-Time Employment )
 
 ## 🛠️ Technical Skills
 
@@ -22,9 +16,12 @@ I'm a Computer Science master's student at the University of California, Riversi
 - MATLAB
 - Scala
 - HTML/CSS
+- TypeScript
 
 
 ## 🧠 Domain Expertise
+- Artificial Intelligence
+- Full-Stack Development
 - Machine Learning
 - Natural Language Processing
 - MLOps
