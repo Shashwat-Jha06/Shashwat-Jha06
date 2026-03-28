@@ -3,7 +3,7 @@
 ## 💼 Professional Experience
 - **AI-Engineer** @ Altimetrik
 - Ex-**Data Scientist** @ Axio (now Amazon Pay)
-- Ex-**Intern** @ Bain & Company (Recipient of PPO for Full-Time Employment )
+- Ex-**Intern** @ Bain & Company ( Recipient of PPO for Full-Time Employment )
 
 ## 🛠️ Technical Skills
 
